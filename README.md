@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning C, Python, JavaScript and MIPS
 - 📫 How to reach me: willschmidt1997@gmail.com
-- ⚡ Fun fact: I'm a keen fisher
+- ⚡ Fun fact: Horses are my favorite animals
 
 
 <div align="center">
