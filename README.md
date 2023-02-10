@@ -1,6 +1,6 @@
 ### Howdy fellas 🤠
 
-- 🌱 I’m currently learning C, Python, JavaScript and PHP
+- 🌱 I’m currently learning JavaScript, PHP and .NET MVC
 - 📫 How to reach me: willschmidt1997@gmail.com
 - ⚡ Fun fact: Horses are my favorite animals
 
