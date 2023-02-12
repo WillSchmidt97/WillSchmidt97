@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript, PHP and .NET MVC
 - 📫 How to reach me: willschmidt1997@gmail.com
 - ⚡ Fun fact: Horses are my favorite animals
-- 🧑🏻‍🍳 The world is a sadder place without pierogi
+- 🧑🏻‍🍳 The world would be a sadder place without pierogi
 - 🗣️ I am a poliglot. I speak english, german, portuguese and polish
 
 <div align="center">
