@@ -4,7 +4,7 @@
 - 📫 How to reach me: willschmidt1997@gmail.com
 - ⚡ Fun fact: Horses are my favorite animals
 - 🧑🏻‍🍳 The world would be a sadder place without pierogi
-- 🗣️ I am a poliglot. I speak english, german, portuguese and polish
+- 🗣️ I am a poliglot. I speak English, German, Portuguese and Polish
 
 <div align="center">
   <a href="https://github.com/WillSchmidt97">
