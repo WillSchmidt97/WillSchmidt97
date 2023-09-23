@@ -1,4 +1,4 @@
-### Howdy fellas 🤠
+### Howdy folks 🤠
 
 - 🌱 I’m currently improving my backend skills
 - 📫 How to reach me: willschmidt1997@gmail.com
